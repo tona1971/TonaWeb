@@ -1,0 +1,11 @@
+# Compton Mass Dark Energy (CMaDE)
+
+Recent cosmological observations, such as those from DESI, suggest that dark energy may not be fully described by a cosmological constant but could instead behave as a dynamical component evolving with cosmic time. In previous work, we examined the possibility that long-wavelength gravitational perturbations on scales comparable to the apparent comoving horizon $\eta$ generate an effective geometric correction to the Einstein equations. This leads to a global term scaling as $1 / \eta^2$ that behaves locally as an effective cosmological constant, interpretable as an emergent gravitational Compton-mass scale relevant only at cosmological distances. We refer to this scenario as the Compton Mass Dark Energy (CMaDe) model.
+We confronted CMaDE with low-redshift datasets-DESI DR2, Pantheon + (without SHOES), Cosmic Chronometer $H(z)$ measurements, and CMB distance priors-using a Markov Chain Monte Carlo analysis, comparing its performance with $\Lambda \mathrm{CDM}$. Considering both Cold Dark Matter (CDM) and Scalar-Field Dark Matter (SFDM), we find the same direction of energy transfer into the CMaDE term, with fits slightly better than $\Lambda \mathrm{CDM}$. Assuming $\Lambda \mathrm{CDM}$-like behavior at high redshift, these results suggest a sightly improvement in favor to the CMaDE model.
+
+Some representative Publications:
+
+- [The graviton Compton mass as Dark Energy. Tonatiuh Matos and L. Parrilla, _Revista Mexicana de Física_ 1. Vol. 67 No. 4 Jul-Aug (2021)](https://rmf.smf.mx/ojs/index.php/rmf/article/view/5670), 
+  [Cosmology on a gravitational wave background. Tonatiuh Matos, Luis A Escamilla, Maribel Hernández-Marquez, J Alberto Vázquez.  _Monthly Notices of the Royal Astronomical_ Society, Volume 529, Issue 3, April 2024, Pages 3013–3019](
+  https://academic.oup.com/mnras/article/529/3/3013/7612263?login=false), 
+  [Conformal Holographic Dark Energy. Mario A. Rodríguez-Mezaa Jorge L. Cervantes-Cotaa Tonatiuh Matos. _arXiv:2512.03411_](https://arxiv.org/pdf/2512.03411)
