@@ -1,34 +1,52 @@
-# Tonatiuh Matos
-## Departamento de Física
-## Cinvestav
+<div class="grid cards" markdown>
 
-Address:
-Departamento de Física
-Cinvestav
-A.P. 14-740 07000
-GAM, CDMX
-México
+- ### 👤 Tonatiuh Matos  
+    **Departamento de Física**
 
-email:
+    ![cinvestav](https://www.cinvestav.mx/Portals/_default/skins/cinvestav2020v2/img/logocinves.png){align=center}
+    
+    **Address**
+    Departamento de Física  
+    Cinvestav  
+    A.P. 14-740 07000  
+    GAM, CDMX  
+    México
+    
+    ---
+    
+    **Email**
+    ![email](tamtos@fis.jpg){ align=center}
 
-![[tamtos@fis.jpg]]
+- ![Profile pic](Elejida.jpg){align=center}
 
-Contact:
+- ### 📞 Contact & Administration  
+    **Maria de la Luz Rodriguez (Malu)**  
+    Administrative Assistant  
+    Astrophysics, Cosmology and  
+    Numerical Relativity Group
+    
+    ---
+    
+    **Email**
+    ![email](malu@fis.jpg)
+    **Phone**  
+    +52 55 5747 3834
 
-Maria de la Luz Rodriguez, (Malu), 
-Administrative Assistant 
-Astrophysics, Cosmology and
-Numerical Relativity group issues
+- ### 🏛️ Institutional Affiliations  
+    ![DGFM](DGFM-logo.jpg){align=left, width="100"}
+    ![IAC](logo_IAC.gif){align=right, width="100"}
+    ---
+    [Instituto Avanzado de Cosmología (IAC)](http://iac.edu.mx)
 
-email:
+- ### 🎥 Media & Outreach  
+    **Videos**
+    - [¿De qué está hecho el Universo?](https://www.youtube.com/watch?v=HLyIwbqMokI&t=2s)
+    - [Problems and Alternatives to ΛCDM](http://www.youtube.com/watch?v=jcGR-bpJv20)
+    - [Versión Científica del Génesis](http://youtu.be/tn-DNPpWK7w)
+    - [Gravitational Wave Background](https://www.youtube.com/watch?v=NeIQY1011s0)
 
-![[malu@fis.jpg]]
+- **Articles**
+    - [NASA News on SFDM](http://chandra.harvard.edu/photo/2017/clusters)
+    - [Phys.org – Dark Fuzzy Matter](https://phys.org/news/2017-04-dark-fuzzy.html)
 
-Phone: 
-
-  +52 55 5747 3834
-  
-                                                                                                                                                                                                                                                                                                                      ![[Elejida.jpg\|250]]                                                                                                                                                                                                                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ![[DGFM-logo.jpg\|100]] |                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                ![[Pasted image 20251224183604.png]]                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ![[logo_IAC.gif\|100]]<br><br>[Instituto Avanzado de Cosmología (IAC)](http://iac.edu.mx) |                                                                                                                                                                                                                                                                                                                                                                                              | Video: [¿De que está hecho el Universo?](https://www.youtube.com/watch?v=HLyIwbqMokI&t=2s)<br><br>Video: [Problems and Alternatives to Lambda Cold Dark Matter](http://www.youtube.com/watch?v=jcGR-bpJv20)<br><br>Video: [Versión Científica del Génesis](http://youtu.be/tn-DNPpWK7w)<br><br>NASA News on SFDM: [http://chandra.harvard.edu/photo/2017/clusters](http://chandra.harvard.edu/photo/2017/clusters) <br><br>Phys.org: [https://phys.org/news/2017-04-dark-fuzzy.html](https://phys.org/news/2017-04-dark-fuzzy.html)<br><br>Video: [The Physics and Cosmology on a Gravitational Wave Background  <br>](https://www.youtube.com/watch?v=NeIQY1011s0) |
+</div>

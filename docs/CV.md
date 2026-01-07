@@ -1,4 +1,4 @@
-# Biographical Sketch
+# 1. Biographical Sketch
 # Tonatiuh Matos
 
 He completed his undergraduate degree in physics and mathematics and subsequently his master's degree in physics at the Escuela Superior de Física y Matemáticas of the Instituto Politécnico Nacional (IPN). He obtained his doctorate in Theoretical Physics in 1987 from Friedrich Schiller University of Jena, Germany, and his habilitation in Astrophysics in 1998 from the same university.

@@ -2,3 +2,14 @@ site_name: TonaWeb
 site_url: https://tona1971.github.io/tonaweb/
 theme:
   name: material
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.blocks.caption
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
