@@ -9,8 +9,13 @@ In this proyect, we use the Einstein-Maxwell-Dilaton (EMD) theory to derive a ne
 Some representative publications: 
 
 [Wormhole cosmic censorship. Tonatiuh Matos, Luis Ureña-López and Galaxia Miranda. _General Relativity and Gravitation_ **48**, 61, (2016)](https://link.springer.com/article/10.1007/s10714-016-2040-7), 
+
 [Kerr-like phantom wormhole. Galaxia Miranda, Tonatiuh Matos and Nadiezhda Montelongo García. _General Relativity and Gravitation_ **46**, 1613, (2014)](https://link.springer.com/article/10.1007/s10714-013-1613-y), 
+
 [Wormhole cosmic censorship: an analytical proof. Juan Carlos del Águla and Tonatiuh Matos. _Classical and Quantum Gravity_ **36** 015018](https://iopscience.iop.org/article/10.1088/1361-6382/aaf336), 
+
 [Geodesic completeness of a ring wormhole. Juan Carlos del Águla and Tonatiuh Matos. _Physical Review D_ **107**.064047](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.064047) 
+
 [On the Possibility of the Existence of Wormholes in Nature. Leonel Bixano and Tonatiuh Matos. _arXiv:2505.20167_](https://arxiv.org/pdf/2505.20167),  
+
 [The space-time structure of an untouchable naked singularity. Leonel Bixano and Tonatiuh Matos. _arXiv:2508.01820_](https://arxiv.org/pdf/2508.01820)

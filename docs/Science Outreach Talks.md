@@ -1,265 +1,329 @@
-# Pláticas de Difusión de la Ciencia:
+# 6. Science Outreach Talks:
 
 1983
+
 1. 1.02_ESFM-IPN
+   
 1987
-2. 10.09_ESFM-IPN
+
+1. 10.09_ESFM-IPN
+   
 1988
- 3. 17.02_ESFM-IPN
-4. 11.11_ESFM-IPN
+
+ 1. 17.02_ESFM-IPN
+2. 11.11_ESFM-IPN
+   
 1989
-5. 24.10_ITP_Universität-Wien
+
+1. 24.10_ITP_Universität-Wien
+   
 1991
-6. 7.06_UAM-I
+
+1. 7.06_UAM-I
+   
 1992
-7. 30.10_UAM-A
-8. 12.11_UAM-I
+
+1. 30.10_UAM-A
+2. 12.11_UAM-I
+   
 1993
-9. 24.05_IFUG
-10. 9.06_ESIME-IPN
-11. 17.08_CI_UNAM
-12. 1.09_Fermilab
+
+1. 24.05_IFUG
+2. 9.06_ESIME-IPN
+3. 17.08_CI_UNAM
+4. 1.09_Fermilab
+    
 1995
-13. 30.06_FF-UV
-14. 9.06_CECyT-WM-IPN
-15. 21.07_UAM-I
+
+1. 30.06_FF-UV
+2. 9.06_CECyT-WM-IPN
+3. 21.07_UAM-I
+    
 1997
-16. 15.03_ESFM-IPN
-17. 7.07_UAM-A
-18. 19.09_FC-UAEM
-19. 10.11_UAEM
+
+1. 15.03_ESFM-IPN
+2. 7.07_UAM-A
+3. 19.09_FC-UAEM
+4. 10.11_UAEM
+    
 1998
-20. 5.03_FCFM-BUAP
-21. Plática_AMC
+
+1. 5.03_FCFM-BUAP
+2. Plática_AMC
+   
 1999
-22. 1.03_FC-UAEM
-23. 15.03_ESFM-IPN
-24. 27.08_AMC
-25. 2.12_UGto.
+
+1. 1.03_FC-UAEM
+2. 15.03_ESFM-IPN
+3. 27.08_AMC
+4. 2.12_UGto,
+   
 2000
-26. 18.02-Cinvestav-DF-IPN
+
+1. 18.02-Cinvestav-DF-IPN
+   
 2001
-27. 7.05_Bachilleres Rosario
-28. 8.05_Bachilleres Neza
-29. 9.05_Bachilleres Vallejo
-30. 4.06_CCF-UNAM
-31. 24.04_ICN-UNAM
+
+1. 7.05_Bachilleres Rosario
+2. 8.05_Bachilleres Neza
+3. 9.05_Bachilleres Vallejo
+4. 4.06_CCF-UNAM
+5. 24.04_ICN-UNAM
+   
 2002
-32. 24.04_ESFM-IPN
-33. 11.05_UAZacatecas
-34. 24.06_AMC
-35. 8.10_Bachilleres
-36. 21.11_Cinvestav-UM-IP
+
+1. 24.04_ESFM-IPN
+2. 11.05_UAZacatecas
+3. 24.06_AMC
+4. 8.10_Bachilleres
+5. 21.11_Cinvestav-UM-IP
+   
 2003
-37. 19.03_Cinvestav-DF-IPN
-38. 22.05_UAVeracruz
-39. 26.05_Bachilleres Vallejo
-40. 29.08_AMC
-41. 8.09_UAM-I
-42. 24.09_Cinvestav-DF-IPN
-43. 3.10_UAM-I
+
+1. 19.03_Cinvestav-DF-IPN
+2. 22.05_UAVeracruz
+3. 26.05_Bachilleres Vallejo
+4. 29.08_AMC
+5. 8.09_UAM-I
+6. 24.09_Cinvestav-DF-IPN
+7. 3.10_UAM-I
+   
 2004
-44. 25.03_IFUG
-45. 26.03_IFUG
-46. 31.03_CUAM
-47. 22.04_UAM-I
-48. 17.05_Bachilleres Valllejo
-49. AMC
-50. 20.10_ESFM-IPN
+
+1. 25.03_IFUG
+2. 26.03_IFUG
+3. 31.03_CUAM
+4. 22.04_UAM-I
+5. 17.05_Bachilleres Valllejo
+6. AMC
+7. 20.10_ESFM-IPN
+   
 2005
-51. 14.03_ESFM-IPN
-52. 7.04_UAM-A
-53. 21.04_FCFM-BUAP
-54. 12.05_IT Qerétaro
-55. 21.06_UAM-I
-56. 27.06_AMC
-57. 30.06_FCFM-BUAP
+
+1. 14.03_ESFM-IPN
+2. 7.04_UAM-A
+3. 21.04_FCFM-BUAP
+4. 12.05_IT Qerétaro
+5. 21.06_UAM-I
+6. 27.06_AMC
+7. 30.06_FCFM-BUAP
+   
 2006
-58. 17.03_UAM-I
-59. 17.04_UAM-I
-60. 26.05_Sta.Clara Cuba
-61. 9.06_Cinvestav-DF-IPN
-62. 16.06_IFUGto
-63. 22.06_Cinvestav-DF-IPN 1, 2, 3, 4, 5, 6, 7
-64. 12.08_CeDiCyT-IPN Presentación de Conversus
-65. 14.09_Cinvestav-DF-IPN
+
+1. 17.03_UAM-I
+2. 17.04_UAM-I
+3. 26.05_Sta.Clara Cuba
+4. 9.06_Cinvestav-DF-IPN
+5. 16.06_IFUGto
+6. 22.06_Cinvestav-DF-IPN 1, 2, 3, 4, 5, 6, 7
+7. 12.08_CeDiCyT-IPN Presentación de Conversus
+8. 14.09_Cinvestav-DF-IPN
+   
 2007
-66. 11.04_Cinvestav-DF-IPN
-67. 21.05_ITESM
-68. 1.06_CIE-UNAM
-69. 12.06_Planetario-IPN
-70. 3.08_UACM
-71. 28.09_ICyTDF
-72. 5.11_Cinvestav-DF-IPN
-73. 23.11_UACM
+
+1. 11.04_Cinvestav-DF-IPN
+2. 21.05_ITESM
+3. 1.06_CIE-UNAM
+4. 12.06_Planetario-IPN
+5. 3.08_UACM
+6. 28.09_ICyTDF
+7. 5.11_Cinvestav-DF-IPN
+8. 23.11_UACM
+   
 2008
-74. 8.01_UDLA
-75. 24.10_CETIS-54
-76. 6.11_ININ
+
+1. 8.01_UDLA
+2. 24.10_CETIS-54
+3. 6.11_ININ
+   
 2009
-77. 18.03_U Iberoamericana
-78. 21.05_CAC-UNAM Querétaro
-79. 29.05_UAM-I
-80. 29.06_AMC
-81. 28.07_Cinvestav-DF-IPN
-82. 23.09_FCFM-BUAP
-83. 14.08_CECyT-JDB-IPN
-84. 21.08_IT Querétaro
-85. 23.10_Planetario-IPN
-86. 18.11_IAC
-87. 20.11_IAC
-88. 17.11-UAM-I
+
+1. 18.03_U Iberoamericana
+2. 21.05_CAC-UNAM Querétaro
+3. 29.05_UAM-I
+4. 29.06_AMC
+5. 28.07_Cinvestav-DF-IPN
+6. 23.09_FCFM-BUAP
+7. 14.08_CECyT-JDB-IPN
+8. 21.08_IT Querétaro
+9. 23.10_Planetario-IPN
+10. 18.11_IAC
+11. 20.11_IAC
+12. 17.11-UAM-I
+    
 2010
-89. 26.01_UAM-I
-90. 11.02_IFM-UMSNH
-91. 20.02_Zócalo-DF
-92. 4.03_ESFM-IPN
-93. 21.04_Cinvestav-DF-IPN
-94. 18.06_IF-BUAP
-95. 29.06_Cinvestav-UM-IPN
-96. 22.07_Cinvestav-DF-IPN
-97. 23.09_Cinvestav-DF-IPN
-98. 8.12_Cinvestav-DF-IPN
-99. 9.12_IFM-UMSNH
+
+1. 26.01_UAM-I
+2. 11.02_IFM-UMSNH
+3. 20.02_Zócalo-DF
+4. 4.03_ESFM-IPN
+5. 21.04_Cinvestav-DF-IPN
+6. 18.06_IF-BUAP
+7. 29.06_Cinvestav-UM-IPN
+8. 22.07_Cinvestav-DF-IPN
+9. 23.09_Cinvestav-DF-IPN
+10. 8.12_Cinvestav-DF-IPN
+11. 9.12_IFM-UMSNH
+    
 2011
-100. 18.05_UASinaloa
-101. 27.05_Posgrado-UNAM
-102. 22.09_U de Guadalajara
-103. 14.09_IA-UNAM
-104. 12.10_IF-UNAM
-105. 22.10_Matematiké Ensenada-BC  Comentario
-106. 13.11_Universum-UNAM Video
+
+1. 18.05_UASinaloa
+2. 27.05_Posgrado-UNAM
+3. 22.09_U de Guadalajara
+4. 14.09_IA-UNAM
+5. 12.10_IF-UNAM
+6. 22.10_Matematiké Ensenada-BC  Comentario
+7. 13.11_Universum-UNAM Video
+   
 2012
-107. 7.02_IMATE-UNAM
-108. 14.03_ESFM-IPN
-109. 28.03_Casa de Francia  Promosional
-110. 25.04_Cinvestav-DF-IPN
-111. 13.06_Cinvestav-DF-IPN
-112. 25.09_IA-UNAM
-113. 6.10_La Carmelita
-114. 19.10_INAOE
-115. 23.11_Cinvesniños  Entrevista en Radio IMER
+
+1. 7.02_IMATE-UNAM
+2. 14.03_ESFM-IPN
+3. 28.03_Casa de Francia  Promosional
+4. 25.04_Cinvestav-DF-IPN
+5. 13.06_Cinvestav-DF-IPN
+6. 25.09_IA-UNAM
+7. 6.10_La Carmelita
+8. 19.10_INAOE
+9. 23.11_Cinvesniños  Entrevista en Radio IMER
+   
 2013
-116. 30.01_UAM-A Poster
-117. 12.02_UAM-I
-118. 8.05_IER-UNAM
-119. 13.05_UPAEP
-120. 27.05_UAEH
-121. 29.05_UAM-A
-122. 19.09_UAM-I
-123. 5.10_Cinvesniños
-124. 8.11_Ugto
+
+1. 30.01_UAM-A Poster
+2. 12.02_UAM-I
+3. 8.05_IER-UNAM
+4. 13.05_UPAEP
+5. 27.05_UAEH
+6. 29.05_UAM-A
+7. 19.09_UAM-I
+8. 5.10_Cinvesniños
+9. 8.11_Ugto
+   
 2014
-125. 28.03_Cinvestav-DF-IPN
-126. 14.05_USLP
-127. 11.06_Cinvestav-DF-IPN
-128. 23.06_Cinvestav-DF-IPN
-129. 27.08_ESFM-IPN
-130. 3.10_Prepa_ANEcatepec
-131. 17.10_Cinvesniños
+
+1. 28.03_Cinvestav-DF-IPN
+2. 14.05_USLP
+3. 11.06_Cinvestav-DF-IPN
+4. 23.06_Cinvestav-DF-IPN
+5. 27.08_ESFM-IPN
+6. 3.10_Prepa_ANEcatepec
+7. 17.10_Cinvesniños
+   
 2015
-132. 19.02_IF-UNAM
-133. 13.04_DCDG-UNAM
-134. 1.06_Prepa-Vallescondido
-135. 14.06_Museo de la Luz
-136. 3.09_ININ
-137. 10.09_FCFM-UMSNH
-138. 11.09_IFM-UMSNH
-139. 1.10_FCFM-UANL
-140. 7.10_CCH-Azcapotzalco
-141. 22.10_Museo de la Luz. Poster
-142. 28.10_UAM-Cuajimalpa
-143. 30.10_ESFM-IPN. Poster
-144. 10.11_UASLP
-145. 17.11_Colegio Nacional
-146. 18.11_DGFM
-147. 25.11_Cinvestav DF IPN
+
+1. 19.02_IF-UNAM
+2. 13.04_DCDG-UNAM
+3. 1.06_Prepa-Vallescondido
+4. 14.06_Museo de la Luz
+5. 3.09_ININ
+6. 10.09_FCFM-UMSNH
+7. 11.09_IFM-UMSNH
+8. 1.10_FCFM-UANL
+9. 7.10_CCH-Azcapotzalco
+10. 22.10_Museo de la Luz. Poster
+11. 28.10_UAM-Cuajimalpa
+12. 30.10_ESFM-IPN. Poster
+13. 10.11_UASLP
+14. 17.11_Colegio Nacional
+15. 18.11_DGFM
+16. 25.11_Cinvestav DF IPN
+    
 2016
-148. 17.02_Cinvestav DF IPN
-149. 24.02_ITESM. Poster.
-150. 17.03_UNACh_MCTP. Poster.
-151. 6.04_UAEMex
-152. 11.04_CIMAT
-153. 19.06_UAZacatecas
-154. 31.05_UAM-A
-155. 15.06_Cinvestav DF IPN
-156. 1.09_Bendini
-157. 3.09_FILEM UAEM
-158. 21.10_UAM-I Semana de la Física
+
+1. 17.02_Cinvestav DF IPN
+2. 24.02_ITESM. Poster.
+3. 17.03_UNACh_MCTP. Poster.
+4. 6.04_UAEMex
+5. 11.04_CIMAT
+6. 19.06_UAZacatecas
+7. 31.05_UAM-A
+8. 15.06_Cinvestav DF IPN
+9. 1.09_Bendini
+10. 3.09_FILEM UAEM
+11. 21.10_UAM-I Semana de la Física
+    
 2017
-159. 3.05_UPMH
-160. 12.06_Cinvestav DF IPN
-161. 14.06_Cinvestav DF IPN
-162. 28.06_Cinvestav DF IPN
-163. 24.07_Cinvestav DF IPN
-164. 9.08_ICF_UNAM
-165. 21.09_UJAT
-166. 22.09_UJAT
-167. 9.10_UAChapingo
-168. 6.12_BUAP
+
+1. 3.05_UPMH
+2. 12.06_Cinvestav DF IPN
+3. 14.06_Cinvestav DF IPN
+4. 28.06_Cinvestav DF IPN
+5. 24.07_Cinvestav DF IPN
+6. 9.08_ICF_UNAM
+7. 21.09_UJAT
+8. 22.09_UJAT
+9. 9.10_UAChapingo
+10. 6.12_BUAP
+    
 2018
-169. 22.01_CCH_Vallejo
-170. 30.05_Cinvestav-DF-IPN
-171. 21.06_Ciencias-Vivas
-172. 15.10_FCE
+
+1. 22.01_CCH_Vallejo
+2. 30.05_Cinvestav-DF-IPN
+3. 21.06_Ciencias-Vivas
+4. 15.10_FCE
+   
 2019
-173. 6.05_UANL Cartel
-174. 6.05_UANL
-175. 19.06_UAM-A
-176. 26.06_Cinvestav-DF-IPN
-177. 17.10_UV
-178. 28.11_Preparatoria-Jean-Piaget
+
+1. 6.05_UANL Cartel
+2. 6.05_UANL
+3. 19.06_UAM-A
+4. 26.06_Cinvestav-DF-IPN
+5. 17.10_UV
+6. 28.11_Preparatoria-Jean-Piaget
+   
 2020
-179. 27.01_Camara de Diputados
-180. 7.02_FCFM-BUAP
-181. 21.02_UAM-A
-182. 6:05_UANL
-183.  5.10_XLIII-CNF-Mesa redonda
-184. 19.10_Rueda de Prensa
-185. 20.10_Ucolima
-186. 28.10_FCE
-187. 26.11_IEEE-UANL-UAM-A: facebook.com/IEEEUANLPhotonics/videos/151788996632405/
+
+1. 27.01_Camara de Diputados
+2. 7.02_FCFM-BUAP
+3. 21.02_UAM-A
+4. 6:05_UANL
+5.  5.10_XLIII-CNF-Mesa redonda
+6. 19.10_Rueda de Prensa
+7. 20.10_Ucolima
+8. 28.10_FCE
+9. [26.11_IEEE-UANL-UAM-A](facebook.com/IEEEUANLPhotonics/videos/151788996632405/)
+   
 2021
-188. 10.03_Cinvestav-DF-IPN.
-189. 22.04_Cinvestav-DF-IPN. youtube.com/watch?v=KCsZbxKHPD4
-190. 28.06_Verano de la Investigación AMC
-191. 26.08_IRyA-UNAM Morelia youtube.com/watch?v=B4j2Ppvifl0&feature=youtu.be
-192. 9.09_Prepas-Ecatepec
-facebook.com/sociedadmexicanadefisica/videos/123481289941686
-193. 24.09_RGyFM_BUAP https://drive.google.com/file/d/1S_OYZrjGNAN0c5Y8LSyealjWM-yGCkqL/view?usp=sharing 
-194. 16.12_Prepas-Ecatepec
+
+10. 10.03_Cinvestav-DF-IPN.
+11. [22.04_Cinvestav-DF-IPN.](youtube.com/watch?v=KCsZbxKHPD4)
+12. 28.06_Verano de la Investigación AMC
+13. [26.08_IRyA-UNAM Morelia](youtube.com/watch?v=B4j2Ppvifl0&feature=youtu.be)
+14. [9.09_Prepas-Ecatepec](facebook.com/sociedadmexicanadefisica/videos/123481289941686)
+15. [24.09_RGyFM_BUAP](https://drive.google.com/file/d/1S_OYZrjGNAN0c5Y8LSyealjWM-yGCkqL/view?usp=sharing) 
+16. 16.12_Prepas-Ecatepec
 2022
-195. 9.02 IFUNAM
-196. 18.02_U Iberoamericana
-197. 29.04_UMICH
-198. 18.07_AMC youtu.be/Lb2H_s4xIZE
-199. 4.11_UAM I
-200. 14.12_ICF UNAM
+17. 9.02 IFUNAM
+18. 18.02_U Iberoamericana
+19. 29.04_UMICH
+20. [18.07_AMC](youtu.be/Lb2H_s4xIZE)
+21. 4.11_UAM I
+22. 14.12_ICF UNAM
 2023
-201. 3.02 IFUNAM youtube.com/watch?v=uAGXBGcrx7w
-202. 28.2 UAM I
-203. 6.06 CECyT 10 youtube.com/watch?v=oD4drr2qVrE
-204. 13.06_DESI-IFUNAM
-205. 11.09_Normal Superior
-206. 20.10 UV
+23. [3.02 IFUNAM](youtube.com/watch?v=uAGXBGcrx7w)
+24. 28.2 UAM I
+25. [6.06 CECyT 10](youtube.com/watch?v=oD4drr2qVrE)
+26. 13.06_DESI-IFUNAM
+27. 11.09_Normal Superior
+28. 20.10 UV
 2024
-207. 8.05_Cinvestav 
-208. 7.06_BUAP
-209. 20.06_Planetario 
-210. 8.11_FILIJ42
-211. 29.11_BUAP
+29. 8.05_Cinvestav 
+30. 7.06_BUAP
+31. 20.06_Planetario 
+32. 8.11_FILIJ42
+33. 29.11_BUAP
 2025
-212. 19.02_IA-UNAM  
-213. 26.03_IFM-UMSNH  
-214. 1.04_Queen Mary College London  
-215. 8.04_U-Ibero  
-216. 10.04_FCE [https://www.youtube.com/watch?v=Eqm2zWHv0pc&ab_channel=CienciaDistancia](https://www.youtube.com/watch?v=Eqm2zWHv0pc&ab_channel=CienciaDistancia)  
-217. 9.05_IA-UNAM  
-218. 29.05_Cinvestav  
-219. 6.06_ESTIC-57  
-220. 4.09_IAC  
-221. 3.10_UV  
-222. 28.10_FCE
+34. 19.02_IA-UNAM  
+35. 26.03_IFM-UMSNH  
+36. 1.04_Queen Mary College London  
+37. 8.04_U-Ibero  
+38. [10.04_FCE](https://www.youtube.com/watch?v=Eqm2zWHv0pc&ab_channel=CienciaDistancia(https://www.youtube.com/watch?v=Eqm2zWHv0pc&ab_channel=CienciaDistancia)  
+39. 9.05_IA-UNAM  
+40. 29.05_Cinvestav  
+41. 6.06_ESTIC-57  
+42. 4.09_IAC  
+43. 3.10_UV  
+44. 28.10_FCE
 
 ## Difusión de la Ciencia en entrevistas en Radio, Televisión y más:
 

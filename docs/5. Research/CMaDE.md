@@ -6,6 +6,8 @@ We confronted CMaDE with low-redshift datasets-DESI DR2, Pantheon + (without SHO
 Some representative Publications:
 
 - [The graviton Compton mass as Dark Energy. Tonatiuh Matos and L. Parrilla, _Revista Mexicana de Física_ 1. Vol. 67 No. 4 Jul-Aug (2021)](https://rmf.smf.mx/ojs/index.php/rmf/article/view/5670), 
+- 
   [Cosmology on a gravitational wave background. Tonatiuh Matos, Luis A Escamilla, Maribel Hernández-Marquez, J Alberto Vázquez.  _Monthly Notices of the Royal Astronomical_ Society, Volume 529, Issue 3, April 2024, Pages 3013–3019](
   https://academic.oup.com/mnras/article/529/3/3013/7612263?login=false), 
-  [Conformal Holographic Dark Energy. Mario A. Rodríguez-Mezaa Jorge L. Cervantes-Cotaa Tonatiuh Matos. _arXiv:2512.03411_](https://arxiv.org/pdf/2512.03411)
+- 
+  [Conformal Holographic Dark Energy. Mario A. Rodríguez-Mezaa Jorge L. Cervantes-Cota Tonatiuh Matos. _arXiv:2512.03411_](https://arxiv.org/pdf/2512.03411)
